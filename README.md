@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Indranilsen09
 - 👀 I’m interested in Software Testing
-- 🌱 I’m Skilled in Software testing Tools and Techniques <Selenium, Java/Python , Maven, TestNG, JMETER,Cucumber, RestAssured, KARATE, Postman, SOAPUI >
+- 🌱 I’m Skilled in Software testing Tools and Techniques <Selenium, Java/Python , Maven, TestNG, JMETER,Cucumber, RestAssured, KARATE, Postman, SOAPUI, JENKINS CI/CD >
 - 💞️ I’m looking for better Opportunity to take My Technical Career at heights.
 - 📫 How to reach me indranilsenoff@gmail.com
 - 😄 Pronouns: HE/HIM
