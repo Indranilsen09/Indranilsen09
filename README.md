@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Indranil Sen</h1>
 <h3 align="center">A Passionate Software Tester from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=indranilsen09&label=Profile%20views&color=0e75b6&style=flat" alt="indranilsen09" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=indranilsen09" alt="indranilsen09" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+<div align="left">
+  <img align ="right" width="300"  src="https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_720_1280/0/1656679844338?e=1717632000&v=beta&t=oqNds5w642JjxFNQq9I5PgFn347e_7D2Y6D3IbdD9Vk"  />
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=indranilsen09&label=Profile%20views&color=0e75b6&style=flat" alt="indranilsen09" /> </p>
+  
 - 🔭 I’m currently working on **Docker**
 
 - 🌱 I’m currently learning **Karate Framework for API Testing**
@@ -15,14 +12,15 @@
 
 - 🤝 I’m looking for help with **Software Testing**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Indranilsen09?tab=repositories](https://github.com/Indranilsen09?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github Repo](https://github.com/Indranilsen09?tab=repositories)
 
 - 💬 Ask me about **UI Automation**
 
 - 📫 How to reach me **indranilsenoff@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1oWh6qepBzOiWVkUzZkO_ysQ-Rk8A4nPp/edit?usp=sharing&ouid=105889422334180554070&rtpof=true&sd=true](https://docs.google.com/document/d/1oWh6qepBzOiWVkUzZkO_ysQ-Rk8A4nPp/edit?usp=sharing&ouid=105889422334180554070&rtpof=true&sd=true)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1oWh6qepBzOiWVkUzZkO_ysQ-Rk8A4nPp/edit?usp=sharing&ouid=105889422334180554070&rtpof=true&sd=true)
 
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/indranil-sen-756490148/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/indranil-sen-756490148/" height="30" width="40" /></a>
