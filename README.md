@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Indranil Sen</h1>
-<h3 align="center">A Passionate Software Tester from India</h3>
+<h3 align="center">I Make Developers Cry :cry:
+  A.K.A Software Tester
+</h3>
 <div align="left">
   <img align ="right" width="300"  src="https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_720_1280/0/1656679844338?e=1717632000&v=beta&t=oqNds5w642JjxFNQq9I5PgFn347e_7D2Y6D3IbdD9Vk"  />
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=indranilsen09&label=Profile%20views&color=0e75b6&style=flat" alt="indranilsen09" /> </p>
