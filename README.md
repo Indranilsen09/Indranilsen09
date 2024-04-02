@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Indranil Sen</h1>
-<h3 align="center">I Make Developers Cry :cry:
+<h3 align="center"> <u>I Make Developers Cry :cry:</u>
   A.K.A Software Tester
 </h3>
 <div align="left">
