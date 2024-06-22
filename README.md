@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **indranilsenoff@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1oWh6qepBzOiWVkUzZkO_ysQ-Rk8A4nPp/edit?usp=sharing&ouid=105889422334180554070&rtpof=true&sd=true)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1wqIHgQeuuOIBkxTcACp4YO3G0_OTlSGw/view?usp=sharing)
 
 </div>
 <h3 align="left">Connect with me:</h3>
